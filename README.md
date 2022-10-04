@@ -1,0 +1,2 @@
+# Acute_Lymphoblastic_Disease_Detection
+Blood cancer is an uprising issue and doing physical medical procedures is too sensitive and time-consuming to detect any blast cell. Manual testing includes blood tests, spinal fluid tests, bone marrow tests, imaging tests, etc. A solution to this is to use modern methods in health care that help to detect diseases faster and increase the cure rate. This can be done using numerous machine learning and image processing techniques.
